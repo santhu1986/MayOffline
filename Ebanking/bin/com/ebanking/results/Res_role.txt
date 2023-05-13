@@ -1,0 +1,4 @@
+RoleName###RoleType###Results
+Clerkaxishyds###E&$&%*^New Role with id 2680 Created Sucessfully
+CashierAxishyds###E&$&%*^New Role with id 2681 Created Sucessfully
+GmanagerAxishyds###E&$&%*^New Role with id 2682 Created Sucessfully

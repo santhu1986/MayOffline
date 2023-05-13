@@ -1,0 +1,4 @@
+RoleName###RoleType###Results
+Clerkaxishyds###E
+CashierAxishyds###E
+GmanagerAxishyds###E
