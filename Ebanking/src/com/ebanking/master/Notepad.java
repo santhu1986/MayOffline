@@ -16,7 +16,7 @@ public class Notepad {
          Library LB=new Library();
 		
 		LB.OpenApp("http://103.211.39.246/ranford2");
-		LB.AdminLgn("Admin","Mindq@Systems");
+		LB.AdminLgn("Admin","TestingMindq");
 		
 		//To get Test Data File Path
 		

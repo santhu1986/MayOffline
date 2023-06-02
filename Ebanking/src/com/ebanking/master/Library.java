@@ -21,6 +21,8 @@ public class Library
 
 	public String OpenApp(String URL) throws IOException 
 	{
+		System.setProperty("webdriver.gecko.driver","C:\\Users\\LENOVO\\OneDrive\\Desktop\\geckodriver.exe");
+		
          Fis=new FileInputStream("D:\\OnlineAprilEvng\\Ebanking\\src\\com\\ebanking\\properties\\Rep.properties");
 		 Pr=new Properties();
 		 Pr.load(Fis);

@@ -13,42 +13,52 @@ public class LoginSD
 
 	WebDriver driver;
 
-@Given("^User Should on Ranford HP$")
-public void user_Should_on_Ranford_HP() throws Throwable 
+@Given("^User should on Ranford Home Page$")
+public void user_should_on_Ranford_Home_Page() throws Throwable 
 {
 	driver=new FirefoxDriver();
+	
+	//Maximize
+	
 	driver.manage().window().maximize();
-	driver.get("http://192.168.1.4/ranford2");
+	
+	//URL
+	
+	driver.get("http://103.211.39.246/ranford2");
+	
 }
 
-@When("^User Enters \"(.*)\" and \"(.*)\" click on Login$")
-public void user_Enters_UserName_Password_and_click_on_Login(String Un,String Pwd) throws Throwable 
+@When("^User Enters \"(.*)\" and \"(.*)\" click on login$")
+public void user_Enters_Un_password_and_click_on_login(String Un,String Pwd) throws Throwable 
 {
 	driver.findElement(By.id("txtuId")).sendKeys(Un);
 	driver.findElement(By.id("txtPword")).sendKeys(Pwd);
 	Thread.sleep(3000);
 	driver.findElement(By.xpath("//*[@id=\'login\']")).click();
 	
+	
 }
 
-@Then("^User Validates Admin Login$")
-public void user_Validates_Admin_Login() throws Throwable
+@Then("^User validates Admin Login$")
+public void user_validates_Admin_Login() throws Throwable 
 {
-          String Expval="Welcome to Admin";
-          
-        String Actval=driver.findElement(By.xpath("/html/body/table/tbody/tr/td/table/tbody/tr[4]/td/table/tbody/tr[1]/td[4]/strong/font/font")).getText();
-			
-			//Comparision
-			
-			if (Expval.equalsIgnoreCase(Actval)) 
-			{
-				System.out.println("Admin Login Succ");
-			}
-			else
-			{
-				System.out.println("Admin Login Failed");
-			}
-	
+	 String Expval="Welcome to Admin";
+	 
+	 
+	 String Actval=driver.findElement(By.xpath("/html/body/table/tbody/tr/td/table/tbody/tr[4]/td/table/tbody/tr[1]/td[4]/strong/font/font")).getText();
+		
+		//Comparision
+		
+		if (Expval.equalsIgnoreCase(Actval)) 
+		{
+			System.out.println("Admin Login Succ");
+		}
+		else
+		{
+			System.out.println("Admin Login Failed");
+		}
+		
+
 }
 
 

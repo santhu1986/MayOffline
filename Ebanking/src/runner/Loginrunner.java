@@ -7,10 +7,10 @@ import cucumber.api.junit.Cucumber;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(features= {"D:\\OnlineAprilEvng\\Ebanking\\src\\feature\\Login.feature",
-		                    "D:\\OnlineAprilEvng\\Ebanking\\src\\feature\\Role.feature"},
-                      glue="stepdefination",monochrome=true,
-                      plugin= {"pretty","json:Target/Role/Roleresult.json"})
-public class Loginrunner
+		                 "D:\\OnlineAprilEvng\\Ebanking\\src\\feature\\Rolecreation.feature"},
+		                  glue="stepdefination",monochrome=true,
+                          plugin= {"pretty","json:Target/Role/Roleres.json"})
+public class Loginrunner 
 {
-
+    
 }

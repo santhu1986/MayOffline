@@ -1,9 +1,9 @@
 Feature: Admin Login Functionality
 
-Scenario: Verify Admin login functionality With Valid
+Scenario: Verify Admin Login Functionality
 
-Given User Should on Ranford HP
+Given User should on Ranford Home Page
 
-When User Enters "Admin" and "Admin" click on Login
+When User Enters "Admin" and "TestingMindq" click on login
 
-Then User Validates Admin Login 
+Then User validates Admin Login

@@ -6,6 +6,104 @@
     <language>en</language>
      <atom:link href="https://newsroom.eclipse.org/rss/news/eclipse_org/announcements.xml" rel="self" type="application/rss+xml" />
       <item>
+    <title>Eclipse Sparkplug Specification Honored with IoT Business Impact Award </title>
+    <link>https://newsroom.eclipse.org/news/announcements/eclipse-sparkplug-specification-honored-iot-business-impact-award</link>
+    <description>&lt;p&gt;&lt;strong&gt;BRUSSELS, Belgium – May 23, 2023 – &lt;/strong&gt;The Eclipse Foundation, one of the world’s largest open source software foundations, announced today that the &lt;a href=&quot;https://sparkplug.eclipse.org/&quot;&gt;Eclipse Sparkplug specification&lt;/a&gt; has received a 2023 IoT Business Impact Award from &lt;a href=&quot;https://www.iotevolutionworld.com/Default.aspx&quot;&gt;IoT Evolution&lt;/a&gt; magazine, the leading publication covering IoT technologies.&lt;/p&gt;
+
+&lt;p&gt;The award honors organizations for their IoT deployment case studies. Eclipse Sparkplug was recognized for their successful partnership bringing IoT functionality to NGL Energy Partners.&lt;/p&gt;
+
+&lt;p&gt;“Sparkplug is well on its way to becoming the de facto standard for making the IIoT ‘plug’n’play,’” said Frederic Desbiens, Eclipse Foundation program manager and evangelist for IoT and Edge Computing. “This award highlights the significant business benefits of implementing this specification in conjunction with MQTT.”&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;About Sparkplug &amp;amp; MQTT&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Sparkplug provides an open and freely available specification for how Edge of Network (EoN) gateways or native MQTT-enabled end devices and MQTT Applications communicate bi-directionally within an MQTT Infrastructure. It is recognized that MQTT is used across a wide spectrum of application solution use cases and an almost indefinable variation of network topologies.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;By design, the MQTT specification does not dictate a Topic Namespace or any payload encoding. However, as the IIoT and other architectures leveraging the publisher/subscriber model are adopted by device OEMs in the industrial sector, having different Topic Namespace and payload encoding can inhibit interoperability for the end customer. To that end, the Sparkplug specification addresses the following components within an MQTT infrastructure:&amp;nbsp;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Sparkplug defines an OT-centric Topic Namespace&amp;nbsp;&lt;/li&gt;
+	&lt;li&gt;Sparkplug defines an OT-centric Payload definition optimized for industrial process variables&amp;nbsp;&lt;/li&gt;
+	&lt;li&gt;Sparkplug defines MQTT Session State management required by real-time OT SCADA systems&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&amp;nbsp;“It is my pleasure to recognize Sparkplug, an innovative solution that earned the Eclipse Foundation the 2023 Business Impact Award,” said Rich Tehrani, CEO, TMC. “I look forward to seeing more successful deployments of best-in-class solutions from the Eclipse Foundation in the future.”&lt;/p&gt;
+
+&lt;p&gt;The Sparkplug standard has recently been submitted for acceptance as an&lt;a href=&quot;https://www.globenewswire.com/en/news-release/2022/12/08/2570068/0/en/The-Eclipse-Foundation-Announces-The-Release-of-Sparkplug-3-0-and-Unveils-it-is-Being-Fast-Tracked-to-Become-an-International-Standard.html&quot;&gt; ISO/IEC JTC 1 international standard&lt;/a&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;About the Eclipse Foundation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The Eclipse Foundation provides our global community of individuals and organisations with a mature, scalable, and business-friendly environment for open source software collaboration and innovation. The Foundation is home to the Eclipse IDE, Jakarta EE, and over 400 open source projects, including runtimes, tools, and frameworks for cloud and edge applications, IoT, AI, automotive, systems engineering, distributed ledger technologies, open processor designs, and many others. The Eclipse Foundation is an international non-profit association supported by over 330 members, including industry leaders who value open source as a key enabler for their business strategies. To learn more, follow us on Twitter&lt;a href=&quot;https://twitter.com/EclipseFdn&quot;&gt; @EclipseFdn&lt;/a&gt;,&lt;a href=&quot;https://linkedin.com/company/eclipse-foundation&quot;&gt; LinkedIn&lt;/a&gt; or visit&lt;a href=&quot;http://eclipse.org&quot;&gt; eclipse.org&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Third-party trademarks mentioned are the property of their respective owners.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;About Crossfire Media&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Crossfire Media, co-publishers of IoT Evolution, is an integrated marketing company with a core focus on future trends in technology. We service communities of interest with conferences, tradeshows, webinars and newsletters. Crossfire Media has a partnership with Technology Marketing Corporation (TMC) to produce events and websites related to disruptive technologies. Crossfire Media is a division of Crossfire Consulting, a full service Information Technology company based in New York.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;About TMC&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Through education, industry news, live events and social influence, global buyers rely on TMC’s content-driven marketplaces to make purchase decisions and navigate markets. As a result, leading technology vendors turn to TMC for unparalleled branding, thought leadership and lead generation opportunities. Our in-person and online events deliver unmatched visibility and sales prospects for all percipients. Through our custom lead generation programs, we provide clients with an ongoing stream of leads that turn into sales opportunities and build databases. Additionally, we bolster brand reputations with the millions of impressions from display advertising on our news sites and newsletters. Making TMC a 360 degree marketing solution, we offer comprehensive event and road show management services and custom content creation with expertly ghost-crafted blogs, press releases, articles and marketing collateral to help with SEO, branding, and overall marketing efforts. For more information about TMC and to learn how we can help you reach your marketing goals, please visit www.tmcnet.com and follow us on Facebook, LinkedIn and Twitter, @tmcnet.&lt;/p&gt;
+
+&lt;p&gt;For more information about TMC and to learn how we can help you reach your marketing goals, please visit www.tmcnet.com.&lt;/p&gt;
+
+&lt;p&gt;###&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Media contacts:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Schwartz Public Relations for the Eclipse Foundation, AISBL&lt;/p&gt;
+
+&lt;p&gt;Stephanie Brüls / Susanne Pawlik&lt;/p&gt;
+
+&lt;p&gt;Sendlinger Straße 42A&lt;/p&gt;
+
+&lt;p&gt;80331 Munich&lt;/p&gt;
+
+&lt;p&gt;EclipseFoundation@schwartzpr.de&lt;/p&gt;
+
+&lt;p&gt;+49 (89) 211 871 – 64 / -35&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Nichols Communications for the Eclipse Foundation, AISBL&lt;/p&gt;
+
+&lt;p&gt;Jay Nichols&lt;/p&gt;
+
+&lt;p&gt;jay@nicholscomm.com&lt;/p&gt;
+
+&lt;p&gt;+1 408-772-1551&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;514 Media Ltd for the Eclipse Foundation, AISBL (France, Italy, Spain)&lt;/p&gt;
+
+&lt;p&gt;Benoit Simoneau&lt;/p&gt;
+
+&lt;p&gt;benoit@514-media.com&lt;/p&gt;
+
+&lt;p&gt;M: +44 (0) 7891 920 370&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;TMC Contact:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Michelle Connolly&lt;/p&gt;
+
+&lt;p&gt;Senior Marketing Manager&lt;/p&gt;
+
+&lt;p&gt;203-852-6800, ext. 170&lt;/p&gt;
+
+&lt;p&gt;mconnolly@tmcnet.com&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&amp;nbsp;&lt;/p&gt;
+</description>
+     <pubDate>Tue, 23 May 2023 09:22:23 -0400</pubDate>
+ <dc:creator>Jacob Harris</dc:creator>
+ <guid isPermaLink="true">https://newsroom.eclipse.org/news/announcements/eclipse-sparkplug-specification-honored-iot-business-impact-award</guid>
+  </item>
+  <item>
     <title>The Eclipse Foundation publishes its study about Open Services Cloud</title>
     <link>https://newsroom.eclipse.org/news/announcements/eclipse-foundation-publishes-its-study-about-open-services-cloud</link>
     <description>&lt;p&gt;&lt;strong&gt;BRUSSELS, Belgium – April 24th, 2023 – &lt;/strong&gt;The Eclipse Foundation, one of the world’s largest open source software foundations, today published its study about Cloud Interoperability to foster the European Digital Market. The report provides an analysis of the current market of the European cloud services ecosystem and perspectives:&lt;/p&gt;
@@ -458,88 +556,6 @@
      <pubDate>Tue, 21 Feb 2023 06:45:00 -0500</pubDate>
  <dc:creator>Jacob Harris</dc:creator>
  <guid isPermaLink="true">https://newsroom.eclipse.org/news/announcements/eclipse-foundation-releases-2022-iot-and-edge-commercial-adoption-survey-results</guid>
-  </item>
-  <item>
-    <title>The Eclipse Foundation Announces the Automotive Open Source Summit for 2023 </title>
-    <link>https://newsroom.eclipse.org/news/announcements/eclipse-foundation-announces-automotive-open-source-summit-2023</link>
-    <description>&lt;p&gt;&lt;strong&gt;BRUSSELS, Belgium – February 15, 2023 – &lt;/strong&gt;&lt;a href=&quot;http://www.eclipse.org&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The Eclipse Foundation&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;, one of the world’s largest open source foundations, in conjunction with the&lt;/span&gt;&lt;a href=&quot;https://sdv.eclipse.org/&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; Eclipse Software Defined Vehicle (SDV) Working Group&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;,&amp;nbsp; today announced the launch of the Automotive Open Source Summit, the industry’s first and only conference focused on open source software (OSS) and collaboration-based innovation for the automotive industry. The primary goal of the summit is to help drive the future of automotive development towards an open source and community-friendly approach. Taking place on June 6th, 2023 at the Hotel Königshof in Garmisch-Partenkirchen, Germany, this exclusive conference will provide an intimate venue for automotive executives and tech leaders to come together and discuss the business of automotive-grade open source software, to network with like-minded individuals, and to learn about the organisational and cultural challenges in automotive software development. Interested parties can find out more here - &lt;/span&gt;&lt;a href=&quot;https://automotive-oss.org/&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;https://automotive-oss.org/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;“The Eclipse SDV Working Group is experiencing an unprecedented level of momentum, reflecting the industry’s desire and deep interest in achieving economic and technological benefits by collaborating to develop and utilize open source software,” said Mike Milinkovich, executive director of the Eclipse Foundation. “Market leaders such as Bosch, Cariad (VW Group), Microsoft, Mercedes-Benz Tech Innovation, ZF, and over 25 other organizations have come aboard to add their expertise to this journey. Based on this demand, we recognized a subject matter gap in conferences today. We believe our new summit will fill that gap and then some.”&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Designed explicitly for automotive business and technology senior managers, executives, thought leaders, senior architects, high level officials (C-level &amp;amp; VP) from OEMs and suppliers, as well as tech companies interested in automotive, the Summit features speakers from Eclipse automotive initiatives as well as organizations and leaders from outside the Eclipse community. The Eclipse Foundation intends for the event to become the go-to-event of all high profile open source and open specification initiatives in the automotive industry.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Objectives of the summit include:&lt;/span&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-	&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Bringing together senior automotive experts and business leaders to openly discuss and collaborate on the future of the connected &amp;amp; autonomous driving experience.&lt;/span&gt;&lt;/li&gt;
-	&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Allowing automotive initiatives from multiple open source and open specification communities to engage and collaborate in a transparent and neutral manner&lt;/span&gt;&lt;/li&gt;
-	&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Establishing the requirements for an automotive-grade open source software stack targeted towards in-series production&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Topics to be covered at the summit include:&lt;/span&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-	&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Automotive and Open Source – Cultural and Organizational Challenges&lt;/span&gt;&lt;/li&gt;
-	&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The Automotive-Grade Open Source Software Stack&lt;/span&gt;&lt;/li&gt;
-	&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Why Support Open Source Software from a Commercial Standpoint&lt;/span&gt;&lt;/li&gt;
-	&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Legal and Regulatory Considerations for Open Source Software in the Automotive Industry&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;About the Eclipse SDV Working Group&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The Eclipse SDV WG is the global center of gravity for software-defined vehicle innovation and collaboration. Industry leaders from diverse industries define our membership (Bosch, Cariad, Mercedes, ZF, Microsoft, etc.). Our code-first approach is generating innovation the industry uses today. We deliver a level playing field for all sizes of companies to contribute. Anyone interested in becoming a member can find out more here - &lt;/span&gt;&lt;a href=&quot;https://sdv.eclipse.org/membership/&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;https://sdv.eclipse.org/membership/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;About the Eclipse Foundation&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The Eclipse Foundation provides our global community of individuals and organizations with a mature, scalable, and business-friendly environment for open source software collaboration and innovation. The Foundation is home to the Eclipse IDE, Jakarta EE, and over 400 open source projects, including runtimes, tools, and frameworks for cloud and edge applications, IoT, AI, automotive, systems engineering, distributed ledger technologies, open processor designs, and many others. The Eclipse Foundation is an international non-profit association supported by over 330 members, including industry leaders who value open source as a key enabler for their business strategies. To learn more, follow us on Twitter&lt;/span&gt;&lt;a href=&quot;https://twitter.com/ResearchEclipse&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; @ResearchEclipse,&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;https://twitter.com/EclipseFdn&quot;&gt; &lt;span style=&quot;font-weight: 400;&quot;&gt;@EclipseFdn&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;,&lt;/span&gt;&lt;a href=&quot;https://linkedin.com/company/eclipse-foundation&quot;&gt; &lt;span style=&quot;font-weight: 400;&quot;&gt;LinkedIn&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; or visit&lt;/span&gt;&lt;a href=&quot;http://eclipse.org&quot;&gt; &lt;span style=&quot;font-weight: 400;&quot;&gt;eclipse.org&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Third-party trademarks mentioned are the property of their respective owners.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;###&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Media contacts:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Schwartz Public Relations for the Eclipse Foundation, AISBL (Germany)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stephanie Brüls / Susanne Pawlik&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Sendlinger Straße 42A&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;80331 Munich&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;EclipseFoundation@schwartzpr.de&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;+49 (89) 211 871 – 64 / -35&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Nichols Communications for the Eclipse Foundation, AISBL&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Jay Nichols&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;jay@nicholscomm.com&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;+1 408-772-1551&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;514 Media Ltd &lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;for the Eclipse Foundation, AISBL (France, Italy, Spain)&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Benoit Simoneau&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;benoit@514-media.com&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;M: &lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;+44 (0) 7891 920 370&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-</description>
-     <pubDate>Wed, 15 Feb 2023 06:45:00 -0500</pubDate>
- <dc:creator>Jacob Harris</dc:creator>
- <guid isPermaLink="true">https://newsroom.eclipse.org/news/announcements/eclipse-foundation-announces-automotive-open-source-summit-2023</guid>
   </item>
   </channel>
 </rss>

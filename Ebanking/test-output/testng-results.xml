@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="4" total="6" passed="2">
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="25315" started-at="2023-05-12T17:25:19 IST" finished-at="2023-05-12T17:25:45 IST">
+  <suite name="Suite" duration-ms="21734" started-at="2023-05-30T17:27:58 IST" finished-at="2023-05-30T17:28:20 IST">
     <groups>
     </groups>
-    <test name="Test" duration-ms="25315" started-at="2023-05-12T17:25:19 IST" finished-at="2023-05-12T17:25:45 IST">
-      <class name="com.ebanking.master.BranchNG">
-        <test-method status="PASS" signature="Br()[pri:0, instance:com.ebanking.master.BranchNG@587d1d39]" name="Br" duration-ms="10978" started-at="2023-05-12T17:25:30 IST" finished-at="2023-05-12T17:25:41 IST">
+    <test name="on Firefox" duration-ms="21439" started-at="2023-05-30T17:27:58 IST" finished-at="2023-05-30T17:28:20 IST">
+      <class name="com.ebanking.master.Sgrid">
+        <test-method status="PASS" signature="Gd(java.lang.String)[pri:0, instance:com.ebanking.master.Sgrid@1f57539]" name="Gd" duration-ms="21338" started-at="2023-05-30T17:27:58 IST" finished-at="2023-05-30T17:28:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Br -->
-      </class> <!-- com.ebanking.master.BranchNG -->
-      <class name="com.ebanking.master.RoleNG">
-        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.ebanking.master.RoleNG@27808f31]" name="beforeSuite" is-config="true" duration-ms="8254" started-at="2023-05-12T17:25:11 IST" finished-at="2023-05-12T17:25:19 IST">
+        </test-method> <!-- Gd -->
+      </class> <!-- com.ebanking.master.Sgrid -->
+    </test> <!-- on Firefox -->
+    <test name="on Chrome" duration-ms="21734" started-at="2023-05-30T17:27:58 IST" finished-at="2023-05-30T17:28:20 IST">
+      <class name="com.ebanking.master.Sgrid">
+        <test-method status="PASS" signature="Gd(java.lang.String)[pri:0, instance:com.ebanking.master.Sgrid@cb51256]" name="Gd" duration-ms="21647" started-at="2023-05-30T17:27:58 IST" finished-at="2023-05-30T17:28:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- beforeSuite -->
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.ebanking.master.RoleNG@27808f31]" name="beforeTest" is-config="true" duration-ms="3523" started-at="2023-05-12T17:25:19 IST" finished-at="2023-05-12T17:25:23 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="Rol()[pri:0, instance:com.ebanking.master.RoleNG@27808f31]" name="Rol" duration-ms="7454" started-at="2023-05-12T17:25:23 IST" finished-at="2023-05-12T17:25:30 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Rol -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.ebanking.master.RoleNG@27808f31]" name="afterTest" is-config="true" duration-ms="3277" started-at="2023-05-12T17:25:41 IST" finished-at="2023-05-12T17:25:45 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterTest -->
-        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.ebanking.master.RoleNG@27808f31]" name="afterSuite" is-config="true" duration-ms="3183" started-at="2023-05-12T17:25:45 IST" finished-at="2023-05-12T17:25:48 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterSuite -->
-      </class> <!-- com.ebanking.master.RoleNG -->
-    </test> <!-- Test -->
+        </test-method> <!-- Gd -->
+      </class> <!-- com.ebanking.master.Sgrid -->
+    </test> <!-- on Chrome -->
   </suite> <!-- Suite -->
 </testng-results>

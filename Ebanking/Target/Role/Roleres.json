@@ -1,0 +1,330 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "Verify Admin Login Functionality",
+        "description": "",
+        "id": "admin-login-functionality;verify-admin-login-functionality",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 8907244700,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User should on Ranford Home Page",
+            "match": {
+              "location": "LoginSD.user_should_on_Ranford_Home_Page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 3738223700,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User Enters \"Admin\" and \"TestingMindq\" click on login",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Admin",
+                  "offset": 13
+                },
+                {
+                  "val": "TestingMindq",
+                  "offset": 25
+                }
+              ],
+              "location": "LoginSD.user_Enters_Un_password_and_click_on_login(String,String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 81794400,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "User validates Admin Login",
+            "match": {
+              "location": "LoginSD.user_validates_Admin_Login()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Admin Login Functionality",
+    "description": "",
+    "id": "admin-login-functionality",
+    "keyword": "Feature",
+    "uri": "D:/OnlineAprilEvng/Ebanking/src/feature/Login.feature"
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 18,
+        "name": "Verify Role Creation With Multiple sets of Data",
+        "description": "",
+        "id": "role-creation-functionality;verify-role-creation-with-multiple-sets-of-data;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 6548750000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Tester Should On Ranford HP",
+            "match": {
+              "location": "RoleSDef.tester_Should_On_Ranford_HP()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 3612543800,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Tester Enter Un and Password click on login",
+            "match": {
+              "location": "RoleSDef.tester_Enter_Un_and_Password_click_on_login()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3251392500,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "Tester click on Role button",
+            "match": {
+              "location": "RoleSDef.tester_click_on_Role_button()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 7055314300,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "Tester click on New Role and enters \"PoidbiBnk\" and \"E\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "PoidbiBnk",
+                  "offset": 37
+                },
+                {
+                  "val": "E",
+                  "offset": 53
+                }
+              ],
+              "location": "RoleSDef.tester_click_on_New_Role_and_enters_and(String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 4632601300,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "Teste Close The Application",
+            "match": {
+              "location": "RoleSDef.teste_Close_The_Application()"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "line": 19,
+        "name": "Verify Role Creation With Multiple sets of Data",
+        "description": "",
+        "id": "role-creation-functionality;verify-role-creation-with-multiple-sets-of-data;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 6418743200,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Tester Should On Ranford HP",
+            "match": {
+              "location": "RoleSDef.tester_Should_On_Ranford_HP()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 3650613900,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Tester Enter Un and Password click on login",
+            "match": {
+              "location": "RoleSDef.tester_Enter_Un_and_Password_click_on_login()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3245213500,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "Tester click on Role button",
+            "match": {
+              "location": "RoleSDef.tester_click_on_Role_button()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 7082191500,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "Tester click on New Role and enters \"ClerkIdbiBnk\" and \"E\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "ClerkIdbiBnk",
+                  "offset": 37
+                },
+                {
+                  "val": "E",
+                  "offset": 56
+                }
+              ],
+              "location": "RoleSDef.tester_click_on_New_Role_and_enters_and(String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 4757808100,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "Teste Close The Application",
+            "match": {
+              "location": "RoleSDef.teste_Close_The_Application()"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "line": 20,
+        "name": "Verify Role Creation With Multiple sets of Data",
+        "description": "",
+        "id": "role-creation-functionality;verify-role-creation-with-multiple-sets-of-data;;4",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 6651002400,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Tester Should On Ranford HP",
+            "match": {
+              "location": "RoleSDef.tester_Should_On_Ranford_HP()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 3849815200,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Tester Enter Un and Password click on login",
+            "match": {
+              "location": "RoleSDef.tester_Enter_Un_and_Password_click_on_login()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3265679100,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "Tester click on Role button",
+            "match": {
+              "location": "RoleSDef.tester_click_on_Role_button()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 7101636700,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "Tester click on New Role and enters \"Telleridbi\" and \"E\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Telleridbi",
+                  "offset": 37
+                },
+                {
+                  "val": "E",
+                  "offset": 54
+                }
+              ],
+              "location": "RoleSDef.tester_click_on_New_Role_and_enters_and(String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 4714408300,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "Teste Close The Application",
+            "match": {
+              "location": "RoleSDef.teste_Close_The_Application()"
+            },
+            "keyword": "When "
+          }
+        ]
+      }
+    ],
+    "name": "Role Creation Functionality",
+    "description": "",
+    "id": "role-creation-functionality",
+    "keyword": "Feature",
+    "uri": "D:/OnlineAprilEvng/Ebanking/src/feature/Rolecreation.feature"
+  }
+]
